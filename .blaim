@@ -1,6 +1,6 @@
 [
 	{
-		"filename": "playground.js",
+		"fileName": "playground.js",
 		"position": {
 			"line": 12,
 			"character": 191
@@ -17,7 +17,7 @@
 		}
 	},
 	{
-		"filename": "playground.js",
+		"fileName": "playground.js",
 		"position": {
 			"line": 15,
 			"character": 231
