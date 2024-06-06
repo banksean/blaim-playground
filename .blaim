@@ -1,0 +1,36 @@
+[
+	{
+		"filename": "playground.js",
+		"position": {
+			"line": 12,
+			"character": 191
+		},
+		"text": "(n) {\n  if (n \u003c= 1) {\n    return n;\n",
+		"inference_config": {
+			"endpoint": "",
+			"maxLines": 0,
+			"maxTokens": 20,
+			"temperature": 0.2,
+			"modelName": "codegemma",
+			"modelFormat": "",
+			"delay": 0
+		}
+	},
+	{
+		"filename": "playground.js",
+		"position": {
+			"line": 15,
+			"character": 231
+		},
+		"text": "} else {\n    return fib(n - 1) + fib(n - 2",
+		"inference_config": {
+			"endpoint": "",
+			"maxLines": 0,
+			"maxTokens": 20,
+			"temperature": 0.2,
+			"modelName": "codegemma",
+			"modelFormat": "",
+			"delay": 0
+		}
+	}
+]
