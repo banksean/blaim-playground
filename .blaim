@@ -6,7 +6,7 @@
 			"character": 191
 		},
 		"text": "(n) {\n  if (n \u003c= 1) {\n    return n;\n",
-		"inference_config": {
+		"inferenceConfig": {
 			"endpoint": "",
 			"maxLines": 0,
 			"maxTokens": 20,
@@ -23,7 +23,7 @@
 			"character": 231
 		},
 		"text": "} else {\n    return fib(n - 1) + fib(n - 2",
-		"inference_config": {
+		"inferenceConfig": {
 			"endpoint": "",
 			"maxLines": 0,
 			"maxTokens": 20,
